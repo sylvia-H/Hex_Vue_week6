@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweek6_vue_project"]=self["webpackChunkweek6_vue_project"]||[]).push([[793],{811:function(e,n,u){u.r(n),u.d(n,{default:function(){return a}});var r=u(252);const t=(0,r._)("h2",null,"後台",-1);function c(e,n,u,c,o,s){const l=(0,r.up)("router-view");return(0,r.wg)(),(0,r.iD)(r.HY,null,[t,(0,r.Wm)(l)],64)}var o={},s=u(744);const l=(0,s.Z)(o,[["render",c]]);var a=l}}]);
+//# sourceMappingURL=793.10df1061.js.map
